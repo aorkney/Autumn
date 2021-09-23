@@ -1,6 +1,8 @@
 # Autumn
 Datasets and codes for the investigation of autumnal phytoplankton bloom dynamics in the Barents Sea.
 
+https://doi.org/10.5281/zenodo.5525075
+
 Copyright (c) [2021] [Andrew Orkney]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
