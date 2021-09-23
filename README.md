@@ -25,17 +25,17 @@ Where pre-existing coding packages have been used, or where
 pre-existing datasets are referred to, the user should consult 
 their original license terms. Details of datasets processed are as follows:
 
-# Down-sampled and gridded dataset for average September conditions
-# in the Barents Sea for September 2002 to 2019
-# [chl-a] inferred from the OC-CCI record: 
-# https://www.oceancolour.org/thredds/catalog-cci.html
-# using the OC6_MERIS algorithm of O'reilley & Werdell, 2019 
-# Sea Surface Temperature and Salinity, inferred from 
-# ARCTIC REANALYSIS PHYS 002 003 available on https://marine.copernicus.eu/
-# https://resources.marine.copernicus.eu/product-detail/ARCTIC_REANALYSIS_PHYS_002_003/INFORMATION
-# Windy events, inferred from WIND GLO WIND L3 REP OBSERVATIONS 012 005
-# available on https://marine.copernicus.eu/
-# https://resources.marine.copernicus.eu/product-detail/WIND_GLO_WIND_L3_REP_OBSERVATIONS_012_005/INFORMATION
-# and changes in current velocities, inferred from 
-# ARCTIC REANALYSIS PHYS 002 003 available on https://marine.copernicus.eu/
+ Down-sampled and gridded dataset for average September conditions
+ in the Barents Sea for September 2002 to 2019
+ [chl-a] inferred from the OC-CCI record: 
+ https://www.oceancolour.org/thredds/catalog-cci.html
+ using the OC6_MERIS algorithm of O'reilley & Werdell, 2019 
+ Sea Surface Temperature and Salinity, inferred from 
+ ARCTIC REANALYSIS PHYS 002 003 available on https://marine.copernicus.eu/
+ https://resources.marine.copernicus.eu/product-detail/ARCTIC_REANALYSIS_PHYS_002_003/INFORMATION
+ Windy events, inferred from WIND GLO WIND L3 REP OBSERVATIONS 012 005
+ available on https://marine.copernicus.eu/
+ https://resources.marine.copernicus.eu/product-detail/WIND_GLO_WIND_L3_REP_OBSERVATIONS_012_005/INFORMATION
+ and changes in current velocities, inferred from 
+ ARCTIC REANALYSIS PHYS 002 003 available on https://marine.copernicus.eu/
 
